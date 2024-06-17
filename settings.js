@@ -13,8 +13,8 @@ global.mess = {
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    botAdmin: '`මම ඇඩ්මින් නෙවේ පgoo😁!`',
+    owner: '`උබද මමද owner😒🤌`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
@@ -22,10 +22,10 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['94728899640'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
-SESSION_ID: process.env.SESSION_ID || 'youre session id',
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=PJlwjLTT#r0Q3cNEi93K6nIhnggfEn724WxpS9K9AsunQtU1L20Y',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
 LANG:  process.env.LANG || 'SI' ,    
